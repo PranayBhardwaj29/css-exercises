@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.Number1 {
+    color: black;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: pink;
+}
+
+#Num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.Num3 {
+    font-size: 24px;
+}
+
+#Num4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
